@@ -27,14 +27,12 @@
 }
 
 .escola{
-    background-image: linear-gradient(#993399 / #939);
+    background-image: linear-gradient (#993399 / #939);
     color:white;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;    align-items: center;
     padding: 24px 0;
 }
-
 .escola-div-conteudo{
     width: 35%;
 }
